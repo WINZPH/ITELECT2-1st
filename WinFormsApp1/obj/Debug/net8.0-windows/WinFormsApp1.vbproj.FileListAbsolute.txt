@@ -1,0 +1,16 @@
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\winze\OneDrive\Desktop\FINAL VB\ITELECT2\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
